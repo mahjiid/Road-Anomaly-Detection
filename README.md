@@ -1,6 +1,5 @@
 # Road-Anomaly-Detection
 
-# Road Anomaly Detection
 # Overview
 Road Anomaly Detection is a final year project focused on identifying anomalies on road surfaces using machine learning techniques. This project leverages computer vision and deep learning to detect irregularities such as potholes, cracks, or obstacles, aiding in road maintenance and safety.
 
